@@ -104,6 +104,46 @@ ul.thumb li:nth-child(5) {
     transform: rotate(-20deg);
     -webkit-filter: blur(1px);
 }
+ul.thumb li:nth-child(6) {
+    margin-top: 100px;
+    margin-left: 30px;
+    -moz-transform: rotate(-14deg);
+    -webkit-transform: rotate(-14deg);
+    transform: rotate(-14deg);
+    -webkit-filter: blur(2.9px);
+}
+ul.thumb li:nth-child(7) {
+    margin-top: 1px;
+    margin-left: -45px;
+    -moz-transform: rotate(-50deg);
+    -webkit-transform: rotate(-50deg);
+    transform: rotate(-50deg);
+    -webkit-filter: blur(2.5px);
+}
+ul.thumb li:nth-child(8) {
+    margin-top: -2px;
+    margin-left: -130px;
+    -moz-transform: rotate(14deg);
+    -webkit-transform: rotate(14deg);
+    transform: rotate(14deg);
+    -webkit-filter: blur(1.9px);
+}
+ul.thumb li:nth-child(9) {
+    margin-top: 100px;
+    margin-left: -30px;
+    -moz-transform: rotate(19deg);
+    -webkit-transform: rotate(19deg);
+    transform: rotate(19deg);
+    -webkit-filter: blur(1px);
+}
+ul.thumb li:nth-child(10) {
+    margin-top: 100px;
+    margin-left: -80px;
+    -moz-transform: rotate(-34deg);
+    -webkit-transform: rotate(-34deg);
+    transform: rotate(-34deg);
+    -webkit-filter: blur(0.5px);
+}
 
 /* here is how the LI element should look
    at the end of the transition which
