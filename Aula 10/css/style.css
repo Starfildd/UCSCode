@@ -1,0 +1,32 @@
+#A{
+    background-color: red;
+}
+
+#B{
+    background-color: green;
+}
+
+#C{
+    background-color: blue;
+}
+
+#A, #B, #C{
+    height: 100px;
+}
+
+#linha{
+    background-color: #ff0;
+    height: 300px;
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#A , #C{
+    flex-grow: 1;
+}
+
+#B{
+    flex-grow: 2;
+}

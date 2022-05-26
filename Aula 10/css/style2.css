@@ -1,0 +1,18 @@
+#A{
+    background-color: red;
+}
+
+#B{
+    background-color: green;
+}
+
+#C{
+    background-color: blue;
+}
+
+#linha{
+    background-color: #ff0;
+    height: 300px;
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+}
